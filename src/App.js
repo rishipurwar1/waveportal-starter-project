@@ -9,7 +9,7 @@ export default function App() {
     <div className="mainContainer">
       <div className="dataContainer">
         <div className="header">
-          <span role="img" aria-label="waving hand">
+          <span role="img" className="wave" aria-label="waving hand">
             👋
           </span>{" "}
           Hey there!

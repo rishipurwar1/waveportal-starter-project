@@ -22,6 +22,9 @@ export default function App() {
         </div>
 
         <button className="waveButton" onClick={wave}>
+          <span role="img" className="wave" aria-label="waving hand">
+            👋
+          </span>{" "}
           Wave at Me
         </button>
       </div>
